@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/share_goal_menu"
+        android:icon="@drawable/ic_share"
+        android:title="@string/share_goal"
+        app:showAsAction="ifRoom|withText" />
+
+    <!-- New menu item for activating the camera -->
+    <item
+        android:id="@+id/take_photo_menu"
+        android:icon="@drawable/ic_camera"
+        android:title="@string/take_photo"
+        app:showAsAction="ifRoom|withText" />
+
+</menu>

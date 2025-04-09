@@ -1,0 +1,55 @@
+<resources>
+
+    <!--Name-->
+    <string name="app_name">BucketList</string>
+
+    <string name="title_text">Goal</string>
+    <string name="goal_input">Input</string>
+
+    <string name="last_updated_text">Last Updated Text</string>
+    <string name="paused_checkbox">Paused</string>
+    <string name="completed_checkbox">Completed</string>
+
+    <string name="prompt">Prompt</string>
+    <string name="note_label">Notes</string>
+    <string name="note_0_button">Note 0 Button</string>
+    <string name="note_1_button">Note 1 Button</string>
+    <string name="note_2_button">Note 2 Button</string>
+    <string name="note_3_button">Note 3 Button</string>
+    <string name="note_4_button">Note 4 Button</string>
+
+    <string name="list_item_title">List Item Title</string>
+    <string name="list_item_progress_count">Progress: %1$d</string>
+
+    <!--Project 2B strings-->
+    <string name="add_progress_button">Progress</string>
+    <string name="enter_progress_text">Enter Progress Text</string>
+
+    <string name="progress_dialog_title">Add new progress</string>
+    <string name="progress_dialog_positive">Add</string>
+    <string name="progress_dialog_negative">Cancel</string>
+
+    <!--Project 2C strings-->
+    <string name="new_goal">New Goal</string>
+    <string name="new_goal_menu">New Goal Menu</string>
+    <string name="no_goal_text">No Goal Text</string>
+    <string name="goal_note_button">Goal Note Button</string>
+    <string name="goal_note_recycler_view">Goal Note Recycler View</string>
+    <string name="share_goal">Take Photo</string>
+
+    <string name="progress_header">Progress Header</string>
+    <string name="goal_title">Goal Title: %1$s</string>
+    <string name="last_updated">Last updated %1$s</string>
+   <string name = "goal_report">%1$s\n%2$s\n%3$s\n%4$s</string>
+    <string name = "goaL_report_progress">Progress:</string>
+    <string name = "goal_share_status">This goal has been %1$s.</string>
+    <string name="goal_report_paused">\nThis goal has been Paused.\n</string>
+    <string name="goal_report_completed">\nThis goal has been Completed.\n</string>
+    <string name="goal_photo">Goal Photo</string>
+    <string name="take_photo_menu">Take Photo</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="goal_report_subject">GoalIntent Goal Report</string>
+    <string name="share_goal_via">Share a goal via</string>
+
+
+</resources>

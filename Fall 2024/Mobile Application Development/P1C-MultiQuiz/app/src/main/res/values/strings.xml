@@ -1,0 +1,47 @@
+<resources>
+
+    <!--Name-->
+    <string name="app_name">MultiQuiz</string>
+
+    <!--Question 0-->
+    <string name="question_0_button">Who won the first VCT Champions Event?</string>
+    <string name="question_0_answer_0_button">Ascend</string>
+    <string name="question_0_answer_1_button">Sentinels</string>
+    <string name="question_0_answer_2_button">Fnatic</string>
+    <string name="question_0_answer_3_button">Evil Geniuses</string>
+
+    <!--Question 1-->
+    <string name="question_1_button">Which map did Fnatic comeback 3-11 on in LOCK//IN</string>
+    <string name="question_1_answer_0_button">Bind</string>
+    <string name="question_1_answer_1_button">Icebox</string>
+    <string name="question_1_answer_2_button">Sunset</string>
+    <string name="question_1_answer_3_button">Breeze</string>
+
+    <!--Question 2-->
+    <string name="question_2_button">What bundles in Americas is the best selling?</string>
+    <string name="question_2_answer_0_button">LOUD</string>
+    <string name="question_2_answer_1_button">KRÜ</string>
+    <string name="question_2_answer_2_button">Sentinels</string>
+    <string name="question_2_answer_3_button">NRG</string>
+
+    <!--Question 3-->
+    <string name="question_3_button">Who won the best esports athlete in 2022?</string>
+    <string name="question_3_answer_0_button">Derke</string>
+    <string name="question_3_answer_1_button">Chichoo</string>
+    <string name="question_3_answer_2_button">TenZ</string>
+    <string name="question_3_answer_3_button">Yay</string>
+
+    <!--Purple Buttons-->
+    <string name="hint_button">Hint</string>
+    <string name="submit_button">Submit</string>
+    <string name="reset_button">Reset Quiz</string>
+
+    <!--Toast-->
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+
+    <!--Score Buttons-->
+    <string name="score_header">Quiz Score</string>
+    <string name="score_text">Score</string>
+
+</resources>

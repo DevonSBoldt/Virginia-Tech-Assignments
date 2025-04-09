@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Main camera body with top notch -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M4,5h16c1.1,0 2,0.9 2,2v12c0,1.1 -0.9,2 -2,2H4c-1.1,0 -2-0.9 -2-2V7c0-1.1 0.9-2 2-2h3l1-2h8l1,2h3z" />
+
+    <!-- Large inner circle for camera lens -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,12a3,3 0 1,1 0,6a3,3 0 1,1 0,-6z" />
+
+    <!-- Smaller inner circle for lens effect -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M12,13.5a1.5,1.5 0 1,1 0,3a1.5,1.5 0 1,1 0,-3z" />
+</vector>

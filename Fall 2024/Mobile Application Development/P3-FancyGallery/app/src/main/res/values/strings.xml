@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FancyGallery</string>
+
+
+    <!-- Activity Main Strings -->
+    <string name="fragment_container">Fragment Container></string>
+    <string name="bottom_nav">Bottom Nav</string>
+
+    <!-- Nav Menu Strings -->
+    <string name="gallery_icon">Gallery Icon</string>
+    <string name="map_icon">Map Icon</string>
+
+    <!-- Fragment Gallery / Map Strings -->
+    <string name="map_view">Map View</string>
+    <string name="photo_grid">Photo Grid</string>
+    <string name="reload_menu">Reload</string>
+
+    <string name="list_item_gallery_description">List Item Gallery</string>
+    <string name="reload_menu_title">Reload Menu Title</string>
+
+
+</resources>

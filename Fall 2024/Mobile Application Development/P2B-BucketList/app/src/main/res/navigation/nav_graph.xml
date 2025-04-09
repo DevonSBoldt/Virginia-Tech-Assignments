@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/goalListFragment">
+
+    <fragment
+        android:id="@+id/goalListFragment"
+        android:name="edu.vt.cs5254.bucketlist.GoalListFragment"
+        tools:layout="@layout/fragment_goal_list"
+        android:label="GoalListFragment" >
+        <action
+            android:id="@+id/show_detail"
+            app:destination="@id/goalDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/goalDetailFragment"
+        android:name="edu.vt.cs5254.bucketlist.GoalDetailFragment"
+        tools:layout="@layout/fragment_goal_detail"
+        android:label="GoalDetailFragment" >
+        <argument
+            android:name="goalId"
+            app:argType="java.util.UUID" />
+        <action android:id="@+id/add_progress"
+            app:destination="@+id/progressDialogFragment" />
+    </fragment>
+    <dialog
+        android:id="@+id/progressDialogFragment"
+        android:name="edu.vt.cs5254.bucketlist.ProgressDialogFragment"
+        android:label="ProgressDialogFragment"/>
+</navigation>

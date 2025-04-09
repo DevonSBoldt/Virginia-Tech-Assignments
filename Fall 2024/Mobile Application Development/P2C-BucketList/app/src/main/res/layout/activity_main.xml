@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <androidx.fragment.app.FragmentContainerView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/fragmentContainerView"
+        android:name="androidx.navigation.fragment.NavHostFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout="@layout/fragment_goal_list"
+        app:defaultNavHost="true"
+        app:navGraph="@navigation/nav_graph" />
+
+<!--
+<androidx.fragment.app.FragmentContainerView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:name="edu.vt.cs5254.bucketlist.GoalListFragment"
+    tools:context=".MainActivity"
+    tools:layout="@layout/fragment_goal_list">
+</androidx.fragment.app.FragmentContainerView>
+-->

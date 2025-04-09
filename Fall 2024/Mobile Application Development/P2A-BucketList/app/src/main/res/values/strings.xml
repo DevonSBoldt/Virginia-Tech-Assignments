@@ -1,0 +1,23 @@
+<resources>
+
+    <!--Name-->
+    <string name="app_name">BucketList</string>
+
+    <string name="title_text">Goal</string>
+    <string name="goal_input">Input</string>
+
+    <string name="last_updated_text">Last Updated Text</string>
+    <string name="paused_checkbox">Paused</string>
+    <string name="completed_checkbox">Completed</string>
+
+    <string name="prompt">Prompt</string>
+    <string name="note_label">Notes</string>
+    <string name="note_0_button">Note 0 Button</string>
+    <string name="note_1_button">Note 1 Button</string>
+    <string name="note_2_button">Note 2 Button</string>
+    <string name="note_3_button">Note 3 Button</string>
+    <string name="note_4_button">Note 4 Button</string>
+
+    <string name="list_item_title">List Item Title</string>
+    <string name="list_item_progress_count">Progress: %1$d</string>
+</resources>
