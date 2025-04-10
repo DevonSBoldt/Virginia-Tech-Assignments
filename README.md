@@ -1,7 +1,7 @@
 # Virginia Tech Assignments
 
-This repository showcases a curated selection of programming assignments and academic projects completed during my time at Virginia Tech. These projects reflect my hands-on experience with core computer science concepts, including object-oriented design, data structures, algorithms, Android development, and software engineering best practices.
+This repository includes a selection of coursework and projects I completed while studying computer science at Virginia Tech. The work covers topics like object-oriented programming, data structures and algorithms, Android app development, and general software engineering principles.
 
-Each project is organized by course or topic, with clean, well-documented code that highlights my ability to write maintainable software, follow design patterns, and build functional applications. This work demonstrates not only my technical proficiency, but also my ability to meet deadlines, follow specifications, and continuously learn in a rigorous academic environment.
+Each folder is organized by course or topic, with clear code and documentation where applicable. These projects reflect my ability to write clean, reliable code, follow technical requirements, and build practical solutions under academic deadlines.
 
-> **Note:** All content is intended for educational purposes only. Please do not copy solutions for academic submission.
+> **For recruiters:** This repository offers a look at my academic background and how I approach coding problems. I'm happy to provide more context or walk through any of these projects—feel free to reach out.
